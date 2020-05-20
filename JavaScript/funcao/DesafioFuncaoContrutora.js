@@ -7,3 +7,4 @@ function Pessoa(nome) {
 
 const p1 = new Pessoa('João')
 p1.falar()
+console.log(p1.nome)
