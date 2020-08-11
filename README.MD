@@ -1,4 +1,4 @@
-# :mortar_board:Curso-Web-Moderno-com-JavaScript-Completo-2020 :mortar_board:
+# :mortar_board:Curso-Web-Moderno-com-JavaScript-Completo-2020:mortar_board:
 Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
 
 ## :round_pushpin: Conteúdo do curso:
