@@ -277,3 +277,32 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
   - 22 - Flappy Bird #05
   - 23 - Flappy Bird #06
 
+### :open_file_folder: Seção 14 - Ajax
+01 - Baixando o Zip
+02 - O que é Ajax?
+03 - Implementando server.js
+04 - XMLHttpRequest #01
+05 - XMLHttpRequest #02
+06 - XMLHttpRequest #03
+07 - Fetch API #01
+08 - Fetch API #02
+09 - Axios #01
+10 - Axios #02
+11 - Ajax com jQuery
+12 - Carregando HTML via Ajax
+
+### :open_file_folder: Seçao 15 - Gulp
+01 - Baixando o Zip
+02 - O que é Gulp?
+03 - Instalando Gulp
+04 - Fundamentos de Gulp
+05 - Processando JavaScript com Gulp
+06 - O que é TypeScript?
+07 - Processando TypeScript com Gulp
+08 - O que é SAAS?
+09 - Processando SASS com Gulp
+10 - Projeto SPA: Visão Geral do Código
+11 - Projeto SPA: Estrutura do Build
+12 - Projeto SPA: Build das Dependências
+13 - Projeto SPA: Build da Aplicação
+14 - Projeto SPA: Adicionando WebServer
