@@ -1,10 +1,10 @@
-const { series} = require('gulp')
+const { series } = require('gulp')
 const gulp = require('gulp')
 const concat = require('gulp-concat')
-const uglify= require('gulp-uglify')
+const uglify = require('gulp-uglify')
 const babel = require('gulp-babel')
 
-function padrao(cb) {
+function transformacaoJS(cb) {
     return gulp.src('src/**/*.js')
         .pipe(babel({
             comments: false,
@@ -21,4 +21,4 @@ function fim(cb) {
     return cb()
 }
 
-exports.default = series(padrao, fim)
+exports.default = series(transformacaoJS, fim)

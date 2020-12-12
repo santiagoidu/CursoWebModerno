@@ -11,19 +11,26 @@ const antes2 = cb => {
     return cb()
 }
 
-function copiar(cb){
+function copiar(cb) {
     // gulp.src(['pastaA/arquivo1.txt', 'pastaA/arquivo2.txt'])
+
     gulp.src('pastaA/**/*.txt')
-    .pipe(gulp.dest('pastaB'))
+        // .pipe(imagePelaMetade())
+        // .pipe(imageEmPretoEBranco())
+        // .pipe(transformacaoA())
+        // .pipe(transformacaoB())
+        // .pipe(transformacaoC())
+        .pipe(gulp.dest('pastaB'))
     return cb()
 }
 
 const fim = cb => {
-    console.log('Tarefa FIM!')
+    console.log('Tarefa Fim!')
     return cb()
 }
 
 module.exports.default = series(
     parallel(antes1, antes2),
     copiar,
-    fim,)
+    fim,
+)
