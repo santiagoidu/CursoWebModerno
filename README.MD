@@ -307,5 +307,277 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
 - 13 - Projeto SPA: Build da Aplicação
 - 14 - Projeto SPA: Adicionando WebServer 
 
+### :open_file_folder: Seção 16 - Webpack
 
+01 - Visão Geral do Webpack
+02 - Estrutura Básica do Projeto
+03 - Sistema de Módulos
+04 - Configurando a Pasta de Saída
+05 - Carregando Arquivo .CSS
+06 - Externalizando Arquivo .CSS
+07 - Carregando Arquivo .SCSS (SASS)
+08 - Desenvolvimento & Produção
+09 - Carregando Arquivos de Imagens
+10 - Adicionando WebServer
+
+### :open_file_folder: Seção 17 - jQuery
+
+01 - Baixando o Zip
+02 - O que é jQuery?
+03 - Entendendo jQuery
+04 - Selecionando Elementos #01
+05 - Selecionando Elementos #02
+06 - Modificando HTML #01
+07 - Modificando HTML #02
+08 - Modificando HTML #03 (Desafio)
+09 - Modificando HTML #03 (Resposta)
+10 - Manipulando Atributos
+11 - Manipulando CSS
+12 - Eventos #01
+13 - Eventos #02
+14 - Eventos #03
+15 - Animação #01
+16 - Animação #02
+17 - Plugin #01
+18 - Plugin #02
+
+### :open_file_folder: Seção 18 - BootStrap
+
+01 - Baixando o Zip
+02 - Opções de Instalação
+03 - Adicionando Navegação
+04 - Tipografia
+05 - Espaços (Margin & Padding)
+06 - Título & Breadcrumb
+07 - Cores
+08 - Flexbox
+09 - Imagens
+10 - Float
+11 - Sistema de Grid #01
+12 - Sistema de Grid #02
+13 - Sistema de Grid #03
+14 - Sistema de Grid #04
+15 - Sistema de Grid #05
+16 - Sistema de Grid #06
+17 - Botões
+18 - Barra de Progresso
+19 - Alertas
+20 - Paginação
+21 - Tooltip
+22 - Slider
+23 - Accordion
+24 - Formulário
+
+### :open_file_folder: Seção 19 - Projeto Galeria (BootStrap/jQuery/Webpack)
+
+01 - Visão Geral do Projeto
+02 - Referenciando os Estilos (SCSS)
+03 - Implementando o Header
+04 - Carregando HTML via Ajax (Includes)
+05 - Implementando a Galeria de Fotos
+06 - Filtrar Fotos por Cidade (jQuery Plugin)
+07 - Executando o Plugin
+08 - Implementando o Footer
+ 
+### :open_file_folder: Seção 20 - React
+
+01 - Criando Projeto
+02 - Primeiro Componente
+03 - Componente Com Parâmetro
+04 - Múltiplos Componentes
+05 - Componente de Classe #01
+06 - Componente de Classe #02
+07 - Componentes: Pai & Filho #01
+08 - Componentes: Pai & Filho #02
+
+### :open_file_folder: Seção 21 - Projeto Calculadora
+
+01 - Criando Projeto
+02 - Componente Calculator
+03 - Componente Button #01
+04 - Componente Display
+05 - Componente Button #02
+06 - Implementando a Lógica #01
+07 - Implementando a Lógica #02
+
+### :open_file_folder: Seção 22 - Projeto Cadastro de Usuário
+
+01 - Implementando Backend (JSON Server)
+02 - Criando Projeto Frontend
+03 - Criando Componentes (Template)
+04 - Aplicando Estilo (CSS Grid)
+05 - Componente Logo
+06 - Componente Cabeçalho
+07 - Componente Rodapé
+08 - Componente Navegação
+09 - Componente Conteúdo
+10 - Componente Cadastro Usuário #01
+11 - Implementando Rotas (React Router)
+12 - Componente Cadastro Usuário #02
+13 - Componente Cadastro Usuário #03
+14 - Componente Cadastro Usuário #04
+15 - Adicionando Responsividade
+
+### :open_file_folder: Seção 23 - VueJS
+
+01 - Baixando o Zip
+02 - Conceitos Básicos
+03 - Binding
+04 - Eventos
+05 - Diretivas: v-if, v-for e v-show
+06 - Aplicando Estilo CSS
+07 - Template na Vue Instance
+08 - Componente #01
+09 - Componente #02 (Desafio)
+10 - Diretiva Personalizada
+
+### :open_file_folder: Seção 24 - Projetos VueJS
+
+01 - Projeto QRCode
+02 - Projeto Sumário de Vendas #01
+03 - Projeto Sumário de Vendas #02
+
+### :open_file_folder: Seção 25 - Projeto Calculadora (Vue)
+
+01 - Criando Projeto
+02 - Criando Componentes
+03 - Componente Button #01
+04 - Componente Display
+05 - Componente Button #02
+06 - Implementando a Lógica
+
+### :open_file_folder:Seção 26 - Projeto Monty Hall (Vue)
+
+01 - Entendendo o Problema de Monty Hall
+02 - Problema de Monty Hall #01
+03 - Problema de Monty Hall #02
+04 - Problema de Monty Hall #03
+05 - Problema de Monty Hall #04
+
+### :open_file_folder:Seção 27 - Banco Relacional
+
+01 - Instalação MySQL Server & Workbench
+02 - Modelo E/R
+03 - Chave Primária
+04 - Relacionamentos
+05 - SQL: Visão Geral
+06 - Criar Schema & Plugin VSCode
+07 - Visão Geral do Modelo
+08 - Criar Tabela Estados
+09 - Inserir Estados
+10 - Consultar Estados
+11 - Atualizar Estados
+12 - Inserir Estados com ID
+13 - Excluir Estados
+14 - Consultar Estados com Agregação
+15 - Criar Tabela Cidades
+16 - Inserir Cidades
+17 - Consultar Múltiplas Tabelas (JOIN)
+18 - Tipos de JOINs
+19 - Criar Tabela Prefeitos
+20 - Inserir Prefeitos
+21 - Explorando os Tipos de JOINs
+22 - Criar Tabela Empresas
+23 - Inserir Empresas
+24 - Consultar Empresas e Cidades
+
+### :open_file_folder: Seção 28 - Banco Não Relacional
+
+01 - Instalação MongoDB (Mac)
+02 - NoSQL: Visão Geral
+03 - Relacional e Não Relacional (Exemplo)
+04 - Comandos Básicos
+05 - Inserir Dados
+06 - Desafio Inserir (São Paulo)
+07 - Desafio Inserir (São Paulo) - Resposta
+08 - Consultas #01
+09 - Consultas Agregadas (Teoria)
+10 - Consultas #02
+11 - Consultas #03
+12 - Update
+13 - Remove
+14 - Inserir Empresas
+15 - Consulta com Lookup #01
+16 - Consulta com Lookup #02
+
+### :open_file_folder: Seção 29 - Express
+
+01 - Introdução do Capítulo
+02 - Criando o Projeto
+03 - Configuração & Launcher #01
+04 - Configuração & Launcher #02
+05 - Tratando a Primeira Requisição
+06 - Tipos de Resposta
+07 - Middleware #01
+08 - Middleware #02
+09 - Lendo Dados da Requisição
+10 - Entendendo o Body Parser
+11 - Comunicação Entre Módulos #01
+12 - Comunicação Entre Módulos #02
+
+### :open_file_folder: Seção 30 - Projeto Base de Conhecimento - Backend
+
+01 - Visão Geral do Projeto
+02 - Instalação do Postgres (Windows)
+03 - Instalação do Postgres (Linux)
+04 - Configurar Projeto
+05 - Executar Versão Final do Projeto
+06 - Middlewares
+07 - Salvar Usuário (Estrutura)
+08 - Banco de Dados Usando Knex #01
+09 - Banco de Dados Usando Knex #02
+10 - Funções de Validadção
+11 - API de Usuário
+12 - Desafio Obter Usuário Por ID
+13 - Desafio Obter Usuário Por ID (Resposta)
+14 - API de Categoria #01
+15 - API de Categoria #02
+16 - API de Artigo #01
+17 - API de Artigo #02
+18 - API de Autenticação
+19 - Protegendo a API com Passport
+20 - Validando Usuário Administrador
+21 - API de Estatísticas (MongoDB)
+22 - Integrando Bancos com Scheduler
+23 - Soft Delete de Usuário
+24 - Informações de Conexão no .env
+25 - Validar Cadastro de Administradores
+
+### :open_file_folder: Seção 30 - Projeto Base de Conhecimento - Frontend
+
+01 - Estrutura Inicial do Template
+02 - Componente Cabeçalho
+03 - Visibilidade do Menu (Toggle)
+04 - Componente Menu do Usuário
+05 - Componente Título da Página
+06 - Router
+07 - Componente Home
+08 - Páginas Administrativas
+09 - Cadastro de Usuário #01
+10 - Configurando o Vue Toasted
+11 - Cadastro de Usuário #02
+12 - Cadastro de Usuário #03
+13 - Cadastro de Categoria #01
+14 - Cadastro de Categoria #02
+15 - Cadastro de Artigo #01
+16 - Cadastro de Artigo #02
+17 - Artigos Por Categoria #01
+18 - Artigos Por Categoria #02
+19 - Exibir Artigo
+20 - Artigos Por Categoria #03
+21 - Menu da Aplicação #01
+22 - Menu da Aplicação #02
+23 - Autenticação: Alterando Store
+24 - Autenticação: Tela de Login/Cadastro
+25 - Autenticação: Logout
+26 - Autenticação: Validar Token #01
+27 - Autenticação: Validar Token #02
+28 - Autenticação: Validando Admin
+29 - Autenticação: Token Expirado
+30 - Artigo com Highlight de Código
+31 - Responsividade do Menu
+
+### :open_file_folder: Seção 32 - Conclusão
+
+01 - Muito Obrigado!
 
