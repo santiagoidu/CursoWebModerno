@@ -343,30 +343,30 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
 
 ### :open_file_folder: Seção 18 - BootStrap
 
-01 - Baixando o Zip
-02 - Opções de Instalação
-03 - Adicionando Navegação
-04 - Tipografia
-05 - Espaços (Margin & Padding)
-06 - Título & Breadcrumb
-07 - Cores
-08 - Flexbox
-09 - Imagens
-10 - Float
-11 - Sistema de Grid #01
-12 - Sistema de Grid #02
-13 - Sistema de Grid #03
-14 - Sistema de Grid #04
-15 - Sistema de Grid #05
-16 - Sistema de Grid #06
-17 - Botões
-18 - Barra de Progresso
-19 - Alertas
-20 - Paginação
-21 - Tooltip
-22 - Slider
-23 - Accordion
-24 - Formulário
+- 01 - Baixando o Zip
+- 02 - Opções de Instalação
+- 03 - Adicionando Navegação
+- 04 - Tipografia
+- 05 - Espaços (Margin & Padding)
+- 06 - Título & Breadcrumb
+- 07 - Cores
+- 08 - Flexbox
+- 09 - Imagens
+- 10 - Float
+- 11 - Sistema de Grid #01
+- 12 - Sistema de Grid #02
+- 13 - Sistema de Grid #03
+- 14 - Sistema de Grid #04
+- 15 - Sistema de Grid #05
+- 16 - Sistema de Grid #06
+- 17 - Botões
+- 18 - Barra de Progresso
+- 19 - Alertas
+- 20 - Paginação
+- 21 - Tooltip
+- 22 - Slider
+- 23 - Accordion
+- 24 - Formulário
 
 ### :open_file_folder: Seção 19 - Projeto Galeria (BootStrap/jQuery/Webpack)
 
