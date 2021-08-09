@@ -309,37 +309,37 @@ Arquivos do Curso Web Moderno com JavaScript Completo 2020 da plataforma Udemy
 
 ### :open_file_folder: Seção 16 - Webpack
 
-01 - Visão Geral do Webpack
-02 - Estrutura Básica do Projeto
-03 - Sistema de Módulos
-04 - Configurando a Pasta de Saída
-05 - Carregando Arquivo .CSS
-06 - Externalizando Arquivo .CSS
-07 - Carregando Arquivo .SCSS (SASS)
-08 - Desenvolvimento & Produção
-09 - Carregando Arquivos de Imagens
-10 - Adicionando WebServer
+- 01 - Visão Geral do Webpack
+- 02 - Estrutura Básica do Projeto
+- 03 - Sistema de Módulos
+- 04 - Configurando a Pasta de Saída
+- 05 - Carregando Arquivo .CSS
+- 06 - Externalizando Arquivo .CSS
+- 07 - Carregando Arquivo .SCSS (SASS)
+- 08 - Desenvolvimento & Produção
+- 09 - Carregando Arquivos de Imagens
+- 10 - Adicionando WebServer
 
 ### :open_file_folder: Seção 17 - jQuery
 
-01 - Baixando o Zip
-02 - O que é jQuery?
-03 - Entendendo jQuery
-04 - Selecionando Elementos #01
-05 - Selecionando Elementos #02
-06 - Modificando HTML #01
-07 - Modificando HTML #02
-08 - Modificando HTML #03 (Desafio)
-09 - Modificando HTML #03 (Resposta)
-10 - Manipulando Atributos
-11 - Manipulando CSS
-12 - Eventos #01
-13 - Eventos #02
-14 - Eventos #03
-15 - Animação #01
-16 - Animação #02
-17 - Plugin #01
-18 - Plugin #02
+- 01 - Baixando o Zip
+- 02 - O que é jQuery?
+- 03 - Entendendo jQuery
+- 04 - Selecionando Elementos #01
+- 05 - Selecionando Elementos #02
+- 06 - Modificando HTML #01
+- 07 - Modificando HTML #02
+- 08 - Modificando HTML #03 (Desafio)
+- 09 - Modificando HTML #03 (Resposta)
+- 10 - Manipulando Atributos
+- 11 - Manipulando CSS
+- 12 - Eventos #01
+- 13 - Eventos #02
+- 14 - Eventos #03
+- 15 - Animação #01
+- 16 - Animação #02
+- 17 - Plugin #01
+- 18 - Plugin #02
 
 ### :open_file_folder: Seção 18 - BootStrap
 
