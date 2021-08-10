@@ -20,6 +20,31 @@
 <hr>
 
 <!-- Botões -->
+<div>
+    <div class="mb-3">
+        <button class="btn btn-primary">Salvar</button>
+        <button class="btn btn-secondary">Cancelar</button>
+        <button class="btn btn-outline-success">Finalizar</button>
+        <button class="btn bnt-danger" disabled>Excluir</button>
+        <button class="bnt bnt-warning" data-toggle>Selecione</button>
+    </div>
+</div>
+
+<div class="btn-group mb-3">
+    <button class="bnt bnt-info">Esquerda</button>
+    <button class="bnt bnt-info active">Esquerda</button>
+    <button class="bnt bnt-info">Direita</button>
+</div>
+
+<div class="dropdown">
+    <button class="btn btn-danger btn-log dropdown-toggle" data-toggle="dropdown">
+        Comprar
+    </button>
+    <div class="dropdown-menu">
+        <a href="#" class="dropdown-item">Paypal</a>
+        <a href="#" class="dropdown-item">Pagseguro</a>
+    </div>
+</div>
 
 <h1 class="mt-5">2. Progresso -
     <small>
@@ -29,6 +54,18 @@
 <hr>
 
 <!-- Progresso -->
+<div class="progress mb-4">
+    <div class="progress-bar" style="width: 25%"></div>
+</div>
+<div class="progress mb-4">
+    <div class="progress-bar progress-bar-striped bg-success" style="width: 50%">50%</div>
+</div>
+<div class="progress" style="height: 40px;">
+    <div class="progress-bar" style="width: 15%;"></div>
+    <div class="progress-bar bg-danger" style="width: 15%;"></div>
+    <div class="progress-bar bg-info" style="width: 15%;"></div>
+    <div class="progress-bar bg-warning" style="width: 15%;"></div>
+</div>
 
 <h1 class="mt-5">3. Mensagens (Alertas) -
     <small>
