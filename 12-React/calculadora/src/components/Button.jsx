@@ -9,6 +9,7 @@ export default props => {
     ${props.double ? 'double' : ''}
     ${props.triple ? 'triple' : ''}`}
 onClick={e => props.click && props.click(props.label)}
+
 >
     {props.label}
 </button>
