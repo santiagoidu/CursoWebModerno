@@ -7,12 +7,12 @@ import Logo from '../components/template/Logo'
 import Nav from '../components/template/Nav'
 import Footer
 from '../components/template/Footer'
-import Main from '../components/template/Main'
+import Home from '../components/home/Home'
 
 export default props =>
 <div className="app">
     <Logo />
     <Nav />
-    <Main icon="home" title="Início" subtitle="Segundo Projeto do capítulo do React "/>
+    <Home />
     <Footer />
 </div>
